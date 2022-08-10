@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **caicrs.contact@gmail.com**
 
-- 📄 Know about my experiences [These months learning, I have been making projects involving create applications with react, my own API and consuming her.](These months learning, I have been making projects involving create applications with react, my own API and consuming her.)
+- 📄 Know about my experiences **These months learning, I have been making projects involving create applications with react, my own API and consuming her.**
 
 - ⚡ Fun fact **Whenever I leave the house I confirm if I really locked my door at least 3 times**
 
