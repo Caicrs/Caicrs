@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caic</h1>
-<h3 align="center">A 19 years old guyfrom Brazil in love gym and programming , fullstack developer ( but my heart its front end ❤️ )</h3>
+<h3 align="center">A 19 years old guy from Brazil in love gym and programming , fullstack developer ( but my heart its front end ❤️ )</h3>
 
 - 🌱 I’m currently learning **React and all things around**
 
